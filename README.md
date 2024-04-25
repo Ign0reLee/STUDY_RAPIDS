@@ -26,32 +26,43 @@
 </a>
 </center>
 <hr/>
+This Repository For NVIDIA 기술랩 - Data Engineering with RAPIDS
+
+<br/><br/>
+
+## What is RAPIDS?
+
+The RAPIDS data science framework is a collection of libraries for running end-to-end data science pipelines completely on the GPU. The interaction is designed to have a familiar look and feel to working in Python, but utilizes optimized NVIDIA® CUDA® primitives and high-bandwidth GPU memory under the hood. Below are some links to help getting started with each of the individual RAPIDS libraries.
+If you want to see more information follow links: 
+[Hompage](https://rapids.ai/),
+[Documentation](https://docs.rapids.ai/user-guide?_gl=1*10rgyfz*_ga*MjEzMTA2MTQxNy4xNzA0OTUyNzQ4*_ga_RKXFW6CM42*MTcxNDAzMTU2My4xNS4wLjE3MTQwMzE1NjMuNjAuMC4w)
+
+
 <br/><br/>
 
 
 ## File Sturcture
 
-
-📦STUDY_RAPIDS
-┣ 📂[Kaggle](./Kaggle)
-┃ ┣ 📂[AML](./Kaggle/AML)
-┃ ┗ 📂[Titanic](./Kaggle/Titanic)
-┃ ┃ ┣ 📂[data]((./Kaggle/Titanic/data)
-┃ ┃ ┃ ┣ 📜gender_submission.csv
-┃ ┃ ┃ ┣ 📜test.csv
-┃ ┃ ┃ ┣ 📜test.parquet
-┃ ┃ ┃ ┣ 📜train.csv
-┃ ┃ ┃ ┗ 📜train.parquet
-┃ ┃ ┣ 📜01_Titanic Random Forest.ipynb
-┃ ┃ ┣ 📜02_Titanic Random Forest with Dask.ipynb
-┃ ┃ ┣ 📜03_Titanic XGB.ipynb
-┃ ┃ ┣ 📜README.md
-┃ ┃ ┣ 📜cufile.log
-┃ ┃ ┣ 📜mydask.html
-┃ ┃ ┣ 📜requirements.txt
-┃ ┃ ┣ 📜submission.csv
-┃ ┃ ┣ 📜submission_RF_cpu.csv
-┃ ┃ ┣ 📜submission_RF_dask.csv
-┃ ┃ ┣ 📜submission_RF_gpu.csv
-┃ ┃ ┗ 📜submission_xgb.csv
-┗ 📜README.md
+📦STUDY_RAPIDS<br/>
+┣ 📂[Kaggle](./Kaggle)<br/>
+┃ ┣ 📂[AML](./Kaggle/AML)<br/>
+┃ ┗ 📂[Titanic](./Kaggle/Titanic)<br/>
+┃ ┃ ┣ 📂[data](./Kaggle/Titanic/data)<br/>
+┃ ┃ ┃ ┣ 📜gender_submission.csv<br/>
+┃ ┃ ┃ ┣ 📜test.csv<br/>
+┃ ┃ ┃ ┣ 📜test.parquet<br/>
+┃ ┃ ┃ ┣ 📜train.csv<br/>
+┃ ┃ ┃ ┗ 📜train.parquet<br/>
+┃ ┃ ┣ 📜01_Titanic Random Forest.ipynb<br/>
+┃ ┃ ┣ 📜02_Titanic Random Forest with Dask.ipynb<br/>
+┃ ┃ ┣ 📜03_Titanic XGB.ipynb<br/>
+┃ ┃ ┣ 📜README.md<br/>
+┃ ┃ ┣ 📜cufile.log<br/>
+┃ ┃ ┣ 📜mydask.html<br/>
+┃ ┃ ┣ 📜requirements.txt<br/>
+┃ ┃ ┣ 📜submission.csv<br/>
+┃ ┃ ┣ 📜submission_RF_cpu.csv<br/>
+┃ ┃ ┣ 📜submission_RF_dask.csv<br/>
+┃ ┃ ┣ 📜submission_RF_gpu.csv<br/>
+┃ ┃ ┗ 📜submission_xgb.csv<br/>
+┗ 📜README.md<br/>
