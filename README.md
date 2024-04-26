@@ -26,8 +26,15 @@
 </a>
 </center>
 <hr/>
-This Repository For NVIDIA 기술랩 - Data Engineering with RAPIDS
+This repository save study code for NVIDIA 기술랩 - Data Engineering with RAPIDS
 
+Learn more : 
+<a href="https://modulabs.notion.site/NVIDIA-Data-Engineering-with-RAPIDS-LAB-136c69bcb0f34c458e7553b945dacad7?pvs=4">
+<img  src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF" />
+</a>
+<a href="https://modulabs.co.kr/">
+<img  src="https://img.shields.io/badge/모두의-연구소-FE5196?style=flat-square" />
+</a>
 <br/><br/>
 
 ## What is RAPIDS?
@@ -41,28 +48,11 @@ If you want to see more information follow links:
 <br/><br/>
 
 
-## File Sturcture
+## Folder Sturcture
 
 📦STUDY_RAPIDS<br/>
 ┣ 📂[Kaggle](./Kaggle)<br/>
 ┃ ┣ 📂[AML](./Kaggle/AML)<br/>
 ┃ ┗ 📂[Titanic](./Kaggle/Titanic)<br/>
-┃ ┃ ┣ 📂[data](./Kaggle/Titanic/data)<br/>
-┃ ┃ ┃ ┣ 📜gender_submission.csv<br/>
-┃ ┃ ┃ ┣ 📜test.csv<br/>
-┃ ┃ ┃ ┣ 📜test.parquet<br/>
-┃ ┃ ┃ ┣ 📜train.csv<br/>
-┃ ┃ ┃ ┗ 📜train.parquet<br/>
-┃ ┃ ┣ 📜01_Titanic Random Forest.ipynb<br/>
-┃ ┃ ┣ 📜02_Titanic Random Forest with Dask.ipynb<br/>
-┃ ┃ ┣ 📜03_Titanic XGB.ipynb<br/>
-┃ ┃ ┣ 📜README.md<br/>
-┃ ┃ ┣ 📜cufile.log<br/>
-┃ ┃ ┣ 📜mydask.html<br/>
-┃ ┃ ┣ 📜requirements.txt<br/>
-┃ ┃ ┣ 📜submission.csv<br/>
-┃ ┃ ┣ 📜submission_RF_cpu.csv<br/>
-┃ ┃ ┣ 📜submission_RF_dask.csv<br/>
-┃ ┃ ┣ 📜submission_RF_gpu.csv<br/>
-┃ ┃ ┗ 📜submission_xgb.csv<br/>
+┃ ┃ ┗ 📂[data](./Kaggle/Titanic/data)<br/>
 ┗ 📜README.md<br/>
