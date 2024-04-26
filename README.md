@@ -21,7 +21,7 @@
 <a href="https://pandas.pydata.org/">
 <img  src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF" />
 </a>
-<a href="https://numpy.org/">
+<a href="https://scikit-learn.org/stable/#">
 <img  src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=FFFFFF" />
 </a>
 </center>
@@ -34,6 +34,9 @@ Learn more :
 </a>
 <a href="https://modulabs.co.kr/">
 <img  src="https://img.shields.io/badge/모두의-연구소-FE5196?style=flat-square" />
+</a>
+<a href="https://www.youtube.com/watch?v=1c3Zw31JhgQ">
+<img  src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=FFFFFF" />
 </a>
 <br/><br/>
 
