@@ -56,6 +56,9 @@ If you want to see more information follow links:
 📦STUDY_RAPIDS<br/>
 ┣ 📂[Kaggle](./Kaggle)<br/>
 ┃ ┣ 📂[AML](./Kaggle/AML)<br/>
+┃ ┃┗ 📂[data](./Kaggle/AML/data)<br/>
 ┃ ┗ 📂[Titanic](./Kaggle/Titanic)<br/>
 ┃ ┃ ┗ 📂[data](./Kaggle/Titanic/data)<br/>
+┃ ┗ 📂[OTTO](./Kaggle/OTTO)<br/>
+┃ ┃ ┗ 📂[data](./Kaggle/OTTO/data)<br/>
 ┗ 📜README.md<br/>

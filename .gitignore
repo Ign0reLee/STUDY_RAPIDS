@@ -2,4 +2,5 @@
 1_*
 2_*
 3_*
-data
+*.csv
+*.parquet
