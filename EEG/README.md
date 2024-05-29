@@ -1,0 +1,4 @@
+# RAPIDS EEG Preprocessing Research
+---
+
+The EEG (electroencephalogram) dataset is characterized by being time-series data that is difficult to obtain, contains a lot of noise, and is very large in size. In particular, preprocessing EEG datasets in real-time is an extremely challenging task, which poses a significant constraint on conducting brainwave-based activities. In this context, NVIDIA's RAPIDS library assists in efficiently performing preprocessing tasks on GPUs. Utilizing this library to enhance the inference speed of the same code is expected to be highly beneficial for Real-Time EEG tasks.
